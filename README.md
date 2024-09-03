@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aydanufuk
-- 👀 I’m interested in programming with JAVA and C++
-- 🌱 I’m currently learning how to use SWIG properly, and also Python.
+- 👀 I’m interested in programming with JAVA
 
 
 <!---
